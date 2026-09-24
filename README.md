@@ -15,7 +15,3 @@ This repository demonstrates intermediate-to-advanced SQL querying techniques to
 1. **User Engagement Profiling:** Leverages `GROUP BY` and `HAVING` clauses, alongside `IS NULL` filtering, to isolate highly active users for beta testing rollouts.
 2. **Exclusionary Set Logic:** Employs optimized `NOT EXISTS` correlated subqueries to identify specific behavioral cohorts (e.g., highly critical reviewers) for targeted feedback surveys.
 3. **Partitioned Leaderboards:** Utilizes Common Table Expressions (CTEs) combined with `DENSE_RANK()` Window Functions to calculate the most consumed content strictly within distinct genre boundaries.
-
-## Repository Contents
-* `schema.sql`: Contains the DDL and DML architecture for table generation and mock data ingestion.
-* `queries.sql`: Contains the business intelligence queries used for data extraction and analysis.
