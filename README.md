@@ -1,3 +1,4 @@
+<img width="854" height="718" alt="image" src="https://github.com/user-attachments/assets/f0a5bc6a-4a82-4ebb-ac78-848f69917215" />
 # StreamMetrics: Streaming Platform Analytics Engine
 
 ## Project Overview
